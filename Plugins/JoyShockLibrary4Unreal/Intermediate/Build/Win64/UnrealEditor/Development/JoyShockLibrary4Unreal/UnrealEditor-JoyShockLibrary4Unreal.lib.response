@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-JoyShockLibrary4Unreal.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\ShootingRangeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Default.rc2.res"
+/OUT:"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\UnrealEditor-JoyShockLibrary4Unreal.lib"
