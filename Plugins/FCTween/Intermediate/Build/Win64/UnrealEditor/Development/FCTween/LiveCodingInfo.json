@@ -2,18 +2,6 @@
 	"RemapUnityFiles": 
 	{
 		"Module.FCTween.cpp.obj": [
-			"FCEasing.gen.cpp.obj",
-			"FCTween.init.gen.cpp.obj",
-			"FCTweenBlueprintLibrary.gen.cpp.obj",
-			"FCTweenBPAction.gen.cpp.obj",
-			"FCTweenBPActionFloat.gen.cpp.obj",
-			"FCTweenBPActionQuat.gen.cpp.obj",
-			"FCTweenBPActionRotator.gen.cpp.obj",
-			"FCTweenBPActionVector.gen.cpp.obj",
-			"FCTweenBPActionVector2D.gen.cpp.obj",
-			"FCTweenInstance.gen.cpp.obj",
-			"FCTweenSubsystem.gen.cpp.obj",
-			"FCTweenUObject.gen.cpp.obj",
 			"FCTweenBlueprintLibrary.cpp.obj",
 			"FCTweenBPAction.cpp.obj",
 			"FCTweenBPActionFloat.cpp.obj",
@@ -30,7 +18,19 @@
 			"FCTweenInstanceVector2D.cpp.obj",
 			"FCTweenModule.cpp.obj",
 			"FCTweenSubsystem.cpp.obj",
-			"FCTweenUObject.cpp.obj"
+			"FCTweenUObject.cpp.obj",
+			"FCEasing.gen.cpp.obj",
+			"FCTween.init.gen.cpp.obj",
+			"FCTweenBlueprintLibrary.gen.cpp.obj",
+			"FCTweenBPAction.gen.cpp.obj",
+			"FCTweenBPActionFloat.gen.cpp.obj",
+			"FCTweenBPActionQuat.gen.cpp.obj",
+			"FCTweenBPActionRotator.gen.cpp.obj",
+			"FCTweenBPActionVector.gen.cpp.obj",
+			"FCTweenBPActionVector2D.gen.cpp.obj",
+			"FCTweenInstance.gen.cpp.obj",
+			"FCTweenSubsystem.gen.cpp.obj",
+			"FCTweenUObject.gen.cpp.obj"
 		]
 	}
 }

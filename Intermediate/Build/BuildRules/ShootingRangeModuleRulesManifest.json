@@ -1,0 +1,17 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Source\\ShootingRange\\ShootingRange.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\BashCore\\Source\\BashCore\\BashCore.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\FCTween\\Source\\FCTween\\FCTween.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\JoyShockLibrary4Unreal\\Source\\JoyShockLibrary4Unreal\\JoyShockLibrary4Unreal.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\LimbitlessBluetoothPlugin\\Source\\LimbitlessBluetoothEditor\\LimbitlessBluetoothEditor.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\LimbitlessBluetoothPlugin\\Source\\LimbitlessBluetoothPlugin\\LimbitlessBluetoothPlugin.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\LimbitlessBluetoothPlugin\\Source\\LimbitlessBTWindows\\LimbitlessBTWindows.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\LimbitlessBluetoothPlugin\\Source\\PlatformManager\\PlatformManager.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\MinigameCore\\Source\\MinigameCore\\MinigameCore.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Plugins\\WinBT\\Source\\WinBT\\WinBT.Build.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Source\\ShootingRange.Target.cs",
+		"C:\\Users\\zombi\\Documents\\ShootingRange\\Source\\ShootingRangeEditor.Target.cs"
+	],
+	"EngineVersion": "5.1.1"
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "ShootingRange",
+			"Path": "C:\\Users\\zombi\\Documents\\ShootingRange\\Source\\ShootingRange.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "ShootingRangeEditor",
+			"Path": "C:\\Users\\zombi\\Documents\\ShootingRange\\Source\\ShootingRangeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

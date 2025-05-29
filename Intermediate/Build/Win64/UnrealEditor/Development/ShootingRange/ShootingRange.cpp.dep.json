@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\zombi\\documents\\shootingrange\\source\\shootingrange\\private\\shootingrange.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\zombi\\documents\\shootingrange\\intermediate\\build\\win64\\shootingrangeeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "c:\\users\\zombi\\documents\\shootingrange\\intermediate\\build\\win64\\unrealeditor\\development\\shootingrange\\definitions.shootingrange.h",
+            "c:\\users\\zombi\\documents\\shootingrange\\source\\shootingrange\\public\\shootingrange.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

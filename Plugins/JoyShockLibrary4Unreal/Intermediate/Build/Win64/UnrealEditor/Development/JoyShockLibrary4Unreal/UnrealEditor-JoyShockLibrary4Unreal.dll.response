@@ -36,6 +36,12 @@
 /FUNCTIONPADMIN:6
 "C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\ShootingRangeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\JoyShockLibrary.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\JoyShockInterface.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\JoyShockLibrary4Unreal.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\JoyShockLibrary.gen.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\JoyShockLibrary4Unreal.init.gen.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\JoyShockLibrary4UnrealSettings.gen.cpp.obj"
 "C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Default.rc2.res"
 "C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\ThirdParty\hidapi\x64\hidapi.lib"
 "..\Intermediate\Build\Win64\UnrealEditor\Development\ApplicationCore\UnrealEditor-ApplicationCore.lib"

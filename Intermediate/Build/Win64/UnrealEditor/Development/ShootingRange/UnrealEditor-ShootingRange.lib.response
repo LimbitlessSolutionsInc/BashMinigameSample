@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-ShootingRange.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\ShootingRangeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\ShootingRange.init.gen.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\ShootingRangeGameModeBase.gen.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\SRCannon.gen.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\ShootingRangeGameModeBase.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\ShootingRange.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\SRCannon.cpp.obj"
+"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\Default.rc2.res"
+/OUT:"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\UnrealEditor\Development\ShootingRange\UnrealEditor-ShootingRange.lib"
