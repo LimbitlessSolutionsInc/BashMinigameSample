@@ -68,6 +68,7 @@
 /DBUILD_VERSION=++UE5+Release-5.1-CL-23901901
 /DBUILD_ICON_FILE_NAME="\"..\\Build\\Windows\\Resources\\Default.ico\""
 /DPROJECT_COPYRIGHT_STRING="Fill out your copyright notice in the Description page of Project Settings."
-/DPROJECT_PRODUCT_IDENTIFIER=ShootingRange
-/fo "C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Default.rc2.res"
+/DPROJECT_PRODUCT_NAME="Super Bionic Bash"
+/DPROJECT_PRODUCT_IDENTIFIER=werid_flex
+/fo "C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Default.rc2.res"
 "..\Build\Windows\Resources\Default.rc2"

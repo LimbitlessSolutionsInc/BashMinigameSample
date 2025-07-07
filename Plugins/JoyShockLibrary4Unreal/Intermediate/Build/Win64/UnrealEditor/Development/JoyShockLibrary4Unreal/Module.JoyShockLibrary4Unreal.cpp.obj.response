@@ -1,6 +1,6 @@
-C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp
+C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp
 /I .
-/I C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Source\JoyShockLibrary4Unreal\Private
+/I C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Source\JoyShockLibrary4Unreal\Private
 /I Runtime
 /I Runtime\ApplicationCore\Public
 /I Runtime\TraceLog\Public
@@ -270,10 +270,10 @@ C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermedia
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Inc\JoyShockLibrary4Unreal\UHT
-/I C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Source
-/I C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\ThirdParty\hidapi
-/I C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Source\JoyShockLibrary4Unreal\Public
+/I C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Inc\JoyShockLibrary4Unreal\UHT
+/I C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Source
+/I C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\ThirdParty\hidapi
+/I C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Source\JoyShockLibrary4Unreal\Public
 /I Runtime\InputDevice\Public
 /I ..\Plugins\EnhancedInput\Intermediate\Build\Win64\UnrealEditor\Inc\EnhancedInput\UHT
 /I ..\Plugins\EnhancedInput\Source
@@ -287,12 +287,12 @@ C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermedia
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
 /external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
-/FI"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\ShootingRangeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Definitions.JoyShockLibrary4Unreal.h"
-/Yu"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\ShootingRangeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\zombi\Documents\ShootingRange\Intermediate\Build\Win64\ShootingRangeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp.obj"
-/sourceDependencies C:\Users\zombi\Documents\ShootingRange\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp.dep.json
+/FI"C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Intermediate\Build\Win64\werid_flexEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/FI"C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Definitions.JoyShockLibrary4Unreal.h"
+/Yu"C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Intermediate\Build\Win64\werid_flexEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Intermediate\Build\Win64\werid_flexEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+/Fo"C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp.obj"
+/sourceDependencies C:\Users\zombi\OneDrive\Desktop\GitHub\werid_flex\Plugins\JoyShockLibrary4Unreal\Intermediate\Build\Win64\UnrealEditor\Development\JoyShockLibrary4Unreal\Module.JoyShockLibrary4Unreal.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi

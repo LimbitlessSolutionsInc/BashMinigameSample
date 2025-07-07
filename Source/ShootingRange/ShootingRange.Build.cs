@@ -10,7 +10,5 @@ public class ShootingRange : ModuleRules
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
 		PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "MinigameCore", "BashCore" });
-
-		PrivateDependencyModuleNames.AddRange(new string[] {  });
 	}
 }

@@ -65,8 +65,8 @@
 #define UE_IS_ENGINE_MODULE 0
 #define UE_DISABLE_INLINE_GEN_CPP 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 0
-#define UE_PROJECT_NAME ShootingRange
-#define UE_TARGET_NAME ShootingRangeEditor
+#define UE_PROJECT_NAME werid_flex
+#define UE_TARGET_NAME werid_flexEditor
 #define UE_MODULE_NAME "JoyShockLibrary4Unreal"
 #define UE_PLUGIN_NAME "JoyShockLibrary4Unreal"
 #define IMPLEMENT_ENCRYPTION_KEY_REGISTRATION() 
